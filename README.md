@@ -1,15 +1,15 @@
 # Basic_CookBook
 
-##Synopsis
+## Synopsis
 
 A basic JavaFX CookBook that you can put recipes in that saves bewteen uses
 Tags currently dont work.
 
-##Motivation
+## Motivation
 
 To one day make a REALLY good version, this is my third attempt
 
-##How to use
+## How to use
 
 Run the CookBook class and the rest is simply following instructions or pressing buttons
 
@@ -17,7 +17,7 @@ Recipe Section
 ![image](https://github.com/user-attachments/assets/13c1f031-cd4c-48bf-b4c9-df74d38b426b)
 
 
-##Code Examples
+## Code Examples
 
 This is what goes off to update the main page
 
