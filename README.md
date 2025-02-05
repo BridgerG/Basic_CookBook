@@ -1,6 +1,6 @@
 # Basic_CookBook
 
-##Synopsis
+##Synopsis\n
 A basic JavaFX CookBook that you can put recipes in that saves bewteen uses
 Tags currently dont work.
 
